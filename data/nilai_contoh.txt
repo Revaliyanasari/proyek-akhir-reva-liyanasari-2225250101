@@ -1,0 +1,21 @@
+DATA CONTOH SOAL ARITMETIKA
+
+1. Operasi: Penjumlahan
+   Soal: 12 + 8
+   Jawaban: 20
+
+2. Operasi: Pengurangan
+   Soal: 25 - 9
+   Jawaban: 16
+
+3. Operasi: Perkalian
+   Soal: 6 * 7
+   Jawaban: 42
+
+4. Operasi: Pembagian
+   Soal: 36 / 6
+   Jawaban: 6
+
+5. Operasi: Penjumlahan
+   Soal: 17 + 15
+   Jawaban: 32
